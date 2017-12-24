@@ -1,0 +1,46 @@
+body{
+	background-color: rgb(228,241,254);
+}
+
+body h1{
+	text-align:center;
+}
+
+.example{
+	padding: 10px;
+	border: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color:#afcaff;
+	border-radius: 5px;
+}
+
+.exampleIn{
+	background-color: white;
+	left-padding:10px;
+	border-radius:5px;
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+	text-indent: 10px;
+}
+
+.exampleTitle{
+	background-color: white;
+	border-radius:5px;
+	left-padding:10px;
+	border-radius:5px;
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+
+.middleTxt{
+	text-align:center;
+}
+
